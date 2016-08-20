@@ -1,1 +1,1 @@
-For pytraj energy testing. GPL v3.
+For pytraj energy testing. GNU_LGPL_v2.
